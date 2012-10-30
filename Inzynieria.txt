@@ -1,0 +1,69 @@
+﻿Projekt:
+Dziennik elektroniczny dla szkół.
+
+Funkcjonalność:
+
+- lista uczniów z podstawowymi informacjami (data urodzenia, miejsce zamieszkania, pesel itp.);
+- podział na klasy;
+- sprawdzanie obecności z automatycznym informowaniem (np. wysyłanie na maila) o nieobecności dziecka, sprawdzanie przygotowania dziecka na WF;
+- dodawanie/edycja ocen;
+- podgląd planu lekcji:
+	- realizowane przez nauczuciela godziny lekcyjne;
+	- temat lekcji;
+- kontrola nauczycieli;
+- terminy prac kalsowych;
+- bezpośredni kontakt z wychowawcą/rodzicami;
+- uwagi za zachowanie;
+- zastępstwa;
+- zbliżające się wydarzenia w szkole;
+- koła zainteresowan;
+
+
+
+Grupy użytkowników:
+
+Admin: 
+	- dostęp nieograniczony;
+
+Dyrektor:
+	- dodawanie/edycja ocen;
+	- kontakt z rodzicami;
+	- kontakt z nauczycielem;
+	- ustalanie zastępstw nauczycieli;
+	- dodawanie uwag;
+	- dodawanie aktualności/wydarzeń;
+	- wgląd w dane o nauczycielach;
+	- wgląd w dane o uczniach;
+
+Nauczyciel:
+	- sprawdzanie obecności;
+	- dodawanie/edycja ocen;
+	- podgląd ocen;
+	- kontakt z rodzicami;
+	- dodawanie uwag;
+	- plan zajęć (domyślny widok plan zajęć jego klasy);
+	- dodawanie terminów prac kalsowych;
+	- dodawanie aktualności/wydarzeń;
+	- wgląd w dane o uczniach;
+	- sprawdzanie przygotowania ucznia do zajęci wychowania fizycznego 
+	- sprawdzenie przygotowania ucznia do lekcji 
+
+Rodzic:
+	- podgląd ocen;
+	- podgląd nieobecności;
+	- podgląd zastępst;
+	- kontakt z wychowawcą;
+	- podgląd uwag za zachowanie;
+	- plan zajęć (domyślny widok plan zajęć jego dziecka);
+	- wydarzenia/aktualności w szkole;
+	- koła zainteresowań;
+	- podgląd statystyk (np. średnia ocen ucznia i klas);
+	- możliwość sprawdzenia przygotowania dziecka na zajęciach
+
+Uczeń:
+	- podgląd ocen;
+	- podgląd nieobecności;
+	- podgląd zastępst;
+	- plan zajęć (domyślny widok plan zajęć jego klasy);
+	- wydarzenia/aktualności w szkole;
+	- koła zainteresowań;
